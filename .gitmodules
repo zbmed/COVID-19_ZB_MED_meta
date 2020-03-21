@@ -1,3 +1,6 @@
 [submodule "COVID-19_sequence_strain_list"]
 	path = COVID-19_sequence_strain_list
 	url = https://github.com/zbmed/COVID-19_sequence_strain_list
+[submodule "2020-03-18-COVID-19_genome_comparisons"]
+	path = 2020-03-18-COVID-19_genome_comparisons
+	url = https://github.com/zbmed/2020-03-18-COVID-19_genome_comparisons
